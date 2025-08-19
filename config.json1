@@ -361,23 +361,24 @@
             "api": "https://www.pgxdy.com/api/json.php",
             "detail": "https://www.pgxdy.com"
         },
+        "ruyi": {
+            "api": "http://cj.rycjapi.com/api.php/provide/vod",
+            "name": "如意资源"
+        },
         "ffzynew": {
             "api": "https://api.ffzyapi.com/api.php/provide/vod",
             "name": "非凡影视new",
+            "detail": "http://ffzy5.tv"
+        },
+        "ffzy": {
+            "api": "http://ffzy5.tv/api.php/provide/vod",
+            "name": "非凡影视",
             "detail": "http://ffzy5.tv"
         },
         "jisu": {
             "api": "https://jszyapi.com/api.php/provide/vod",
             "name": "极速资源",
             "detail": "https://jszyapi.com"
-        },
-        "mozhua": {
-            "api": "https://mozhuazy.com/api.php/provide/vod",
-            "name": "魔爪资源"
-        },
-        "mdzy": {
-            "api": "https://www.mdzyapi.com/api.php/provide/vod",
-            "name": "魔都资源"
         },
         "kauiboziyuan": {
             "api": "https://gayapi.com/api.php/provide/vod",
@@ -386,10 +387,6 @@
         "xingbaziyuan": {
             "api": "https://xingba111.com/api.php/provide/vod",
             "name": "杏吧资源"
-        },
-        "liangziziyuan": {
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
-            "name": "量子资源"
         },
         "senlinziyuan": {
             "api": "https://slapibf.com/api.php/provide/vod",
@@ -470,10 +467,6 @@
         "qiqiqiqi": {
             "api": "https://www.qiqidys.com/api.php/provide/vod/",
             "name": "七七影视"
-        },
-        "yingshigongchang": {
-            "api": "https://cj.lziapi.com/api.php/provide/vod/",
-            "name": "影视工厂"
         },
         "fantuanyingshi": {
             "api": "https://www.fantuan.tv/api.php/provide/vod/",
